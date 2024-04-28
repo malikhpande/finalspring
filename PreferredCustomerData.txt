@@ -1,0 +1,5 @@
+456;Heber Allen;heber.allen@snow.edu;1;1
+459;Joe Jackson;joe@somewhere.com;1;1
+3;Bob;Bob.smith@gmail.com;1;1
+1;Malikh;malikhpande@gmail.com;1;0
+2;Malikh;malikh@malikh.com;0;0
